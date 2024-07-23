@@ -59,8 +59,7 @@
 				<key>ActionParameters</key>
 				<dict>
 					<key>COMMAND_STRING</key>
-					<string>#!/bin/bash
-/opt/homebrew/bin/brew update
+					<string>/opt/homebrew/bin/brew update
 /opt/homebrew/bin/brew upgrade
 /opt/homebrew/bin/brew cleanup
 /opt/homebrew/bin/brew services start colima</string>
@@ -88,7 +87,7 @@
 				<key>Class Name</key>
 				<string>RunShellScriptAction</string>
 				<key>InputUUID</key>
-				<string>D954CF5F-EAFE-43D7-979F-F01753C5BDF1</string>
+				<string>66F1D064-276A-495E-A02D-E553E32913FD</string>
 				<key>Keywords</key>
 				<array>
 					<string>Shell</string>
@@ -98,9 +97,9 @@
 					<string>Unix</string>
 				</array>
 				<key>OutputUUID</key>
-				<string>12F18290-E261-44E7-B14A-61F5C790BBAF</string>
+				<string>5038143D-0894-402C-A6F6-480FBECA2342</string>
 				<key>UUID</key>
-				<string>75C175EE-35BB-48FE-9DAB-055BF96E40EB</string>
+				<string>555AD858-FBCB-42FF-9A77-3971C2BFF7F2</string>
 				<key>UnlocalizedApplications</key>
 				<array>
 					<string>Automator</string>
