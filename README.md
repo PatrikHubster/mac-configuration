@@ -20,7 +20,7 @@ Docker is used in the style described in this [Medium article](https://medium.co
 
 ## Automatic updates
 
-This documentation is based on this [Medium article](https://truptivbhatt.medium.com/how-to-run-your-shell-script-automatically-after-logging-to-mac-da789bb78d21). Use the Phase 2 of this Medium article to import the startup script in this repository:
+This documentation is based on this [Medium article](https://truptivbhatt.medium.com/how-to-run-your-shell-script-automatically-after-logging-to-mac-da789bb78d21). In the Automator it is also possible to open a automation via `Files`. To adopt the existing `Development environment setup` app use this option. Use the Phase 2 of this Medium article to import the `Development environment setup` script of this repository:
 
 1. Go to System preferences.
 2. Search for login items.
