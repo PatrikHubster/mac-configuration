@@ -254,6 +254,15 @@
             }
           }
         }
+      },
+      "snyk": {
+        "version": "1.1292.1",
+        "bottle": false
+      }
+    },
+    "tap": {
+      "snyk/tap": {
+        "revision": "4c3c515b01dfe84bafec4c591219680bff91bf96"
       }
     }
   },
