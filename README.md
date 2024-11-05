@@ -16,7 +16,7 @@ brew bundle --file=./Brewfile
 
 ## Docker
 
-Docker is used in the style described in this [Medium article](https://medium.com/@damasamirulkarim/how-i-use-docker-without-docker-desktop-on-macos-df251dae3b81).
+Docker is used via podman. Use this [Medium article](https://medium.com/@cfryerdev/docker-to-podman-994cef4d0669) to configure the docker alias for podman.
 
 ## Automatic updates
 
